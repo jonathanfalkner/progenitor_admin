@@ -1,0 +1,8 @@
+name = Phase2 Admin
+description = Provides administrative enhancements for a better site management UX.
+core = 7.x
+package = Phase2
+
+dependencies[] = navbar
+dependencies[] = simplified_menu_admin
+dependencies[] = chosen
