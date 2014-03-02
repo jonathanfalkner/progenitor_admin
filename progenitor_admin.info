@@ -4,5 +4,6 @@ core = 7.x
 package = Progenitor
 
 dependencies[] = navbar
-dependencies[] = simplified_menu_admin
 dependencies[] = chosen
+dependencies[] = escape_admin
+dependencies[] = simplified_menu_admin
