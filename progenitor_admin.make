@@ -3,7 +3,7 @@ core = 7.x
 
 projects[ember][type] = theme
 projects[ember][subdir] = contrib
-projects[ember][version] = 2.0-alpha1
+projects[ember][version] = 2.0-alpha2
 
 projects[navbar][type] = module
 projects[navbar][subdir] = contrib
