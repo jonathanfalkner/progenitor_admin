@@ -18,7 +18,7 @@ projects[escape_admin][version] = 1.0
 
 projects[libraries][type] = module
 projects[libraries][subdir] = contrib
-projects[libraries][version] = 2.1
+projects[libraries][version] = 2.2
 
 projects[simplified_menu_admin][type] = module
 projects[simplified_menu_admin][subdir] = contrib
