@@ -1,21 +1,21 @@
 <?php
 /**
  * @file
- * Installation routines for the Phase2 Admin module.
+ * Installation routines for the Progenitor Admin module.
  */
 
 /**
  * Implements hook_install().
  */
-function phase2_admin_install() {
+function progenitor_admin_install() {
   phase2_variable_default('admin_theme', 'ember');
   phase2_variable_default('node_admin_theme', 1);
 }
 
 /**
  * @todo
- *   In the event we add a Phase2 utility module, add it as a dependency and
- *   drop this function.
+ *   In the event we add a Progenitor utility module, add it as a dependency
+ *   and drop this function.
  */
 if (!function_exists('phase2_variable_default')) {
   /**

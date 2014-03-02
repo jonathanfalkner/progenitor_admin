@@ -1,7 +1,7 @@
-name = Phase2 Admin
+name = Progenitor Admin
 description = Provides administrative enhancements for a better site management UX.
 core = 7.x
-package = Phase2
+package = Progenitor
 
 dependencies[] = navbar
 dependencies[] = simplified_menu_admin

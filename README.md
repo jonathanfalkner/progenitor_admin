@@ -1,7 +1,9 @@
-# Phase2 Admin
+# Progenitor Admin
 
 This Stack module provides a recipe for an improved administrator & site-building
-experience, with an emphasis on Drupal 8 backports.
+experience, with an emphasis on Drupal 8 backports. It is part of the
+[Code Reuse: Progenitor](https://wiki.phase2technology.com/display/Deliver/Code+Reuse)
+effort.
 
 ## Use Cases
 
