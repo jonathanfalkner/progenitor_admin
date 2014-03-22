@@ -40,6 +40,18 @@ projects[draggableviews][download][url] = http://git.drupal.org/project/draggabl
 ; Draggable Views is overdue for a dot release.
 projects[draggableviews][download][revision] = 4f5ac4ca6eaef98d9ccf28b715eeaa2548306ccd
 
+; Drupal 8 backported improvements
+projects[backports][version] = 1.0-alpha1
+projects[backports][subdir] = contrib
+
+; Improved the "Authored on" date field on node forms.
+projects[date_popup_authored][version] = 1.1
+projects[date_popup_authored][subdir] = contrib
+
+; Replace core Administrative listing pages with Views-based pages.
+projects[admin_views][version] = 1.2
+projects[admin_views][subdir] = contrib
+
 libraries[chosen][download][type] = "get"
 libraries[chosen][download][url] = "https://github.com/harvesthq/chosen/releases/download/1.0.0/chosen_v1.0.0.zip"
 libraries[chosen][directory_name] = "chosen"

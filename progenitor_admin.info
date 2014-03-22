@@ -3,7 +3,10 @@ description = Provides administrative enhancements for a better site management 
 core = 7.x
 package = Progenitor
 
-dependencies[] = navbar
+dependencies[] = admin_views
+dependencies[] = backports
 dependencies[] = chosen
+dependencies[] = date_popup_authored
 dependencies[] = escape_admin
+dependencies[] = navbar
 dependencies[] = simplified_menu_admin
