@@ -6,7 +6,6 @@ package = Progenitor
 dependencies[] = admin_views
 dependencies[] = backports
 dependencies[] = chosen
-dependencies[] = date_popup_authored
 dependencies[] = escape_admin
 dependencies[] = navbar
 dependencies[] = simplified_menu_admin

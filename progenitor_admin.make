@@ -44,10 +44,6 @@ projects[draggableviews][download][revision] = 4f5ac4ca6eaef98d9ccf28b715eeaa254
 projects[backports][version] = 1.0-alpha1
 projects[backports][subdir] = contrib
 
-; Improved the "Authored on" date field on node forms.
-projects[date_popup_authored][version] = 1.1
-projects[date_popup_authored][subdir] = contrib
-
 ; Replace core Administrative listing pages with Views-based pages.
 projects[admin_views][version] = 1.2
 projects[admin_views][subdir] = contrib
