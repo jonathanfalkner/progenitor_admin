@@ -14,7 +14,7 @@ projects[navbar][patch][2173041] = http://drupal.org/files/issues/2173041-3-i-be
 ; https://drupal.org/node/2208473 may lead to merging this into navbar proper.
 projects[escape_admin][type] = module
 projects[escape_admin][subdir] = contrib
-projects[escape_admin][version] = 1.0
+projects[escape_admin][version] = 1.1
 
 projects[libraries][type] = module
 projects[libraries][subdir] = contrib
