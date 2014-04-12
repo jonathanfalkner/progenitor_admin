@@ -30,7 +30,7 @@ projects[chosen][version] = 2.0-beta4
 
 projects[views_bulk_operations][type] = module
 projects[views_bulk_operations][subdir] = contrib
-projects[views_bulk_operations][version] = 3.1
+projects[views_bulk_operations][version] = 3.2
 
 projects[draggableviews][type] = module
 projects[draggableviews][subdir] = contrib
