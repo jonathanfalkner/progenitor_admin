@@ -26,7 +26,7 @@ projects[simplified_menu_admin][version] = 1.0-beta2
 
 projects[chosen][type] = module
 projects[chosen][subdir] = contrib
-projects[chosen][version] = 2.0-alpha4
+projects[chosen][version] = 2.0-beta4
 
 projects[views_bulk_operations][type] = module
 projects[views_bulk_operations][subdir] = contrib
@@ -49,7 +49,7 @@ projects[admin_views][version] = 1.2
 projects[admin_views][subdir] = contrib
 
 libraries[chosen][download][type] = "get"
-libraries[chosen][download][url] = "https://github.com/harvesthq/chosen/releases/download/1.0.0/chosen_v1.0.0.zip"
+libraries[chosen][download][url] = "https://github.com/harvesthq/chosen/releases/download/v1.1.0/chosen_v1.1.0.zip"
 libraries[chosen][directory_name] = "chosen"
 libraries[chosen][destination] = "libraries"
 
