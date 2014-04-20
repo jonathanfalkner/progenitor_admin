@@ -24,6 +24,14 @@ projects[simplified_menu_admin][type] = module
 projects[simplified_menu_admin][subdir] = contrib
 projects[simplified_menu_admin][version] = 1.0-beta2
 
+projects[menu_attributes][type] = module
+projects[menu_attributes][subdir] = contrib
+projects[menu_attributes][version] = 1.0-rc2
+
+projects[mpac][type] = module
+projects[mpac][subdir] = contrib
+projects[mpac][version] = 1.2
+
 projects[chosen][type] = module
 projects[chosen][subdir] = contrib
 projects[chosen][version] = 2.0-beta4
