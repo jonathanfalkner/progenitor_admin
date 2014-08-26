@@ -58,6 +58,10 @@ projects[backports][subdir] = contrib
 projects[admin_views][version] = 1.3
 projects[admin_views][subdir] = contrib
 
+projects[elements][type] = module
+projects[elements][subdir] = contrib
+projects[elements][version] = 1.4
+
 libraries[chosen][download][type] = "get"
 libraries[chosen][download][url] = "https://github.com/harvesthq/chosen/releases/download/v1.1.0/chosen_v1.1.0.zip"
 libraries[chosen][directory_name] = "chosen"
