@@ -4,6 +4,8 @@ core = 7.x
 projects[ember][type] = theme
 projects[ember][subdir] = contrib
 projects[ember][version] = 2.0-alpha2
+; Fix image path in ember
+projects[ember][patch][2183687] = https://www.drupal.org/files/issues/2183687-1.patch
 
 projects[navbar][type] = module
 projects[navbar][subdir] = contrib
