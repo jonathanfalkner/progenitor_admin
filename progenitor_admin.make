@@ -12,6 +12,7 @@ projects[navbar][subdir] = contrib
 projects[navbar][version] = 1.4
 ; Remove on update to 1.5.
 projects[navbar][patch][2173041] = http://drupal.org/files/issues/2173041-3-i-beam-menu-hover.patch
+projects[navbar][patch][1937754] = http://drupal.org/files/issues/navbar-fix-table-header-1937754-20.patch
 
 ; https://drupal.org/node/2208473 may lead to merging this into navbar proper.
 projects[escape_admin][type] = module
