@@ -76,3 +76,7 @@ libraries[backbone][download][url] = https://github.com/jashkenas/backbone/archi
 
 libraries[modernizr][download][type] = "get"
 libraries[modernizr][download][url] = "https://github.com/Modernizr/Modernizr/archive/v2.7.1.tar.gz"
+
+projects[title][type] = module
+projects[title][subdir] = contrib
+projects[title][version] = 1.0-alpha7
