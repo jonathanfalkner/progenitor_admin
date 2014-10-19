@@ -49,6 +49,7 @@ projects[draggableviews][version] = 2.x-dev
 projects[draggableviews][download][type] = git
 projects[draggableviews][download][url] = http://git.drupal.org/project/draggableviews.git
 ; Draggable Views is overdue for a dot release.
+projects[draggableviews][download][branch] = 7.x-2.x
 projects[draggableviews][download][revision] = 4f5ac4ca6eaef98d9ccf28b715eeaa2548306ccd
 
 ; Drupal 8 backported improvements
@@ -76,3 +77,12 @@ libraries[backbone][download][url] = https://github.com/jashkenas/backbone/archi
 
 libraries[modernizr][download][type] = "get"
 libraries[modernizr][download][url] = "https://github.com/Modernizr/Modernizr/archive/v2.7.1.tar.gz"
+
+projects[title][type] = module
+projects[title][subdir] = contrib
+projects[title][version] = 1.x-dev
+projects[title][download][type] = git
+projects[title][download][url] = http://git.drupal.org/project/title.git
+; Title is overdue for a dot release.
+projects[title][download][branch] = 7.x-1.x
+projects[title][download][revision] = b0a5aebf36b95cf94e77f5352a0c51b535ffb64c
