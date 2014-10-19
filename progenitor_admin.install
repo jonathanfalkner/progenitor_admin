@@ -8,16 +8,15 @@
  * Implements hook_install().
  */
 function progenitor_admin_install() {
-  phase2_variable_default('admin_theme', 'ember');
-  phase2_variable_default('node_admin_theme', 1);
+  progenitor_variable_default('admin_theme', 'ember');
+  progenitor_variable_default('node_admin_theme', 1);
 }
 
 /**
- * @todo
- *   In the event we add a Progenitor utility module, add it as a dependency
- *   and drop this function.
+ * In the event we add a Progenitor utility module, add it as a dependency and
+ * drop this function.
  */
-if (!function_exists('phase2_variable_default')) {
+if (!function_exists('progenitor_variable_default')) {
   /**
    * "Soft"-set a configuration value.
    *
@@ -26,7 +25,7 @@ if (!function_exists('phase2_variable_default')) {
    * defaults different from the modules using the variable, but not overriding
    * any intended configurations.
    */
-  function phase2_variable_default($name, $value) {
+  function progenitor_variable_default($name, $value) {
     global $conf;
 
     if (!isset($conf[$name])) {
