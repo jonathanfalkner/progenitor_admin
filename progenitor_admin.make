@@ -78,6 +78,9 @@ libraries[backbone][download][url] = https://github.com/jashkenas/backbone/archi
 libraries[modernizr][download][type] = "get"
 libraries[modernizr][download][url] = "https://github.com/Modernizr/Modernizr/archive/v2.7.1.tar.gz"
 
+; Title module converts the behavior of title entity property to a "normal" field.
+; This results in the title being rendered below local tabs & duplicates the normal
+; $title var in node templates.
 projects[title][type] = module
 projects[title][subdir] = contrib
 projects[title][version] = 1.x-dev

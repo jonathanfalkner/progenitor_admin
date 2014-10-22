@@ -11,4 +11,3 @@ dependencies[] = escape_admin
 dependencies[] = mpac
 dependencies[] = navbar
 dependencies[] = simplified_menu_admin
-dependencies[] = title
