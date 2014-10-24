@@ -24,10 +24,6 @@ and Modernizr. In the event that a Progenitor stack more targeted on a use case
 for these is created, there may be duplication or an introduction of a dependency
 on the other stack.
 
-## Maintainers
-
-* Adam Ross <aross@phase2technology.com>
-
 ## Keywords
 
 administration, ux
