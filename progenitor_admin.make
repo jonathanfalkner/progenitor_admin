@@ -14,7 +14,7 @@ projects[navbar][version] = 1.6
 ; https://drupal.org/node/2208473 may lead to merging this into navbar proper.
 projects[escape_admin][type] = module
 projects[escape_admin][subdir] = contrib
-projects[escape_admin][version] = 1.1
+projects[escape_admin][version] = 1.2
 
 projects[libraries][type] = module
 projects[libraries][subdir] = contrib
