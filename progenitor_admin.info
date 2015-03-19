@@ -7,7 +7,6 @@ dependencies[] = admin_views
 dependencies[] = backports
 dependencies[] = chosen
 dependencies[] = elements
-dependencies[] = escape_admin
 dependencies[] = mpac
 dependencies[] = navbar
 dependencies[] = simplified_menu_admin
