@@ -3,9 +3,7 @@ core = 7.x
 
 projects[ember][type] = theme
 projects[ember][subdir] = contrib
-projects[ember][version] = 2.0-alpha2
-; Fix image path in ember
-projects[ember][patch][2183687] = https://www.drupal.org/files/issues/2183687-1.patch
+projects[ember][version] = 2.0-alpha3
 
 projects[navbar][type] = module
 projects[navbar][subdir] = contrib
@@ -21,7 +19,7 @@ projects[simplified_menu_admin][version] = 1.0-beta2
 
 projects[menu_attributes][type] = module
 projects[menu_attributes][subdir] = contrib
-projects[menu_attributes][version] = 1.0-rc2
+projects[menu_attributes][version] = 1.0-rc3
 
 projects[mpac][type] = module
 projects[mpac][subdir] = contrib
@@ -37,12 +35,7 @@ projects[views_bulk_operations][version] = 3.2
 
 projects[draggableviews][type] = module
 projects[draggableviews][subdir] = contrib
-projects[draggableviews][version] = 2.x-dev
-projects[draggableviews][download][type] = git
-projects[draggableviews][download][url] = http://git.drupal.org/project/draggableviews.git
-; Draggable Views is overdue for a dot release.
-projects[draggableviews][download][branch] = 7.x-2.x
-projects[draggableviews][download][revision] = 4f5ac4ca6eaef98d9ccf28b715eeaa2548306ccd
+projects[draggableviews][version] = 2.1
 
 ; Drupal 8 backported improvements
 projects[backports][version] = 1.0-alpha1
