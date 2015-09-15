@@ -31,7 +31,7 @@ projects[chosen][version] = 2.0-beta4
 
 projects[views_bulk_operations][type] = module
 projects[views_bulk_operations][subdir] = contrib
-projects[views_bulk_operations][version] = 3.2
+projects[views_bulk_operations][version] = 3.3
 
 projects[draggableviews][type] = module
 projects[draggableviews][subdir] = contrib
@@ -42,7 +42,7 @@ projects[backports][version] = 1.0-alpha1
 projects[backports][subdir] = contrib
 
 ; Replace core Administrative listing pages with Views-based pages.
-projects[admin_views][version] = 1.4
+projects[admin_views][version] = 1.5
 projects[admin_views][subdir] = contrib
 
 projects[elements][type] = module
